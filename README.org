@@ -3,7 +3,7 @@
 Bindings to libfond, a simple text rendering engine for OpenGL
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/Shirakumo/cl-fond.git   |
+| source  | git:https://codeberg.org/shirakumo/cl-fond.git   |
 | commit  | dac975c  |
 | systems | cl-fond |
 |---------+-------------------------------------------|
